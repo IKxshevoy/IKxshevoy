@@ -6,7 +6,7 @@
     Frontend developer
   </h3>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKxshevoy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKxshevoy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="100%" height="50%">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IKxshevoy&theme=dark" alt="GitHub Streak" width="100%">
 </div>
