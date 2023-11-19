@@ -1,10 +1,12 @@
-<h1 align="center">
-  Hi there👋, I'm Ivan Koshovyi
-</h1>
-<h3 align="center">
-  Frontend developer
-</h3>
+<div align="center">
+  <h1>
+    Hi there👋, I'm Ivan Koshovyi
+  </h1>
+  <h3>
+    Frontend developer
+  </h3>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKxshevoy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IKxshevoy&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKxshevoy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="100%">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IKxshevoy&theme=dark" alt="GitHub Streak" width="100%">
+</div>
