@@ -2,9 +2,9 @@
   <h1>
     Hi there👋, I'm Ivan Koshovyi
   </h1>
-  <h3>
+  <h1>
     Frontend developer
-  </h3>
+  </h1>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKxshevoy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="80%">
 
